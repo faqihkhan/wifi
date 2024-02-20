@@ -27,16 +27,10 @@ body
 }
 .early
 {
-    /* width: 349px;
-    height: 612px;
-    display: inline-block;
-    margin-bottom: 69px;
-    margin-left: 975px; */
-
     width: 349px;
     height: 612px;
-    display: inline-block; /* Menjadikan elemen .early sebagai inline-block */
-    margin-left: 975px; /* Mengatur margin kiri untuk memberikan jarak antara .dairy dan .early */
+    display: inline-block;
+    margin-left: 975px;
     margin-top: -50px;
     border: 1px solid #fff;
 }
