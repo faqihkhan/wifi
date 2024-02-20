@@ -20,6 +20,26 @@ body
     margin-left: 52px;
     border: 1px solid #fff;
 }
+.dairy
+{
+    color: #fff;
+    display: inline-block;
+}
+.early
+{
+    /* width: 349px;
+    height: 612px;
+    display: inline-block;
+    margin-bottom: 69px;
+    margin-left: 975px; */
+
+    width: 349px;
+    height: 612px;
+    display: inline-block; /* Menjadikan elemen .early sebagai inline-block */
+    margin-left: 975px; /* Mengatur margin kiri untuk memberikan jarak antara .dairy dan .early */
+    margin-top: -50px;
+    border: 1px solid #fff;
+}
 .bakery
 {
     width: 531.33px;
@@ -28,8 +48,4 @@ body
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
-}
-.dairy
-{
-    color: #fff;
 }
