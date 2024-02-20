@@ -1,0 +1,35 @@
+body
+{
+    background-color: #131413;
+}
+.cage
+{
+    width: 1,440px;
+    height: 112px;
+    padding: 32px, 70px, 32px, 70px;
+    gap: 1032px;
+    border: 1px solid #fff;
+
+}
+.dairy
+{
+    width: 220px;
+    height: 42.31px;
+    padding: 32px, 70px, 32px, 70px;
+    margin-top: 33px;
+    margin-left: 52px;
+    border: 1px solid #fff;
+}
+.bakery
+{
+    width: 531.33px;
+    height: 477.94px;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.dairy
+{
+    color: #fff;
+}
